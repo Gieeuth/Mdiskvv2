@@ -7,7 +7,7 @@ import os
 class Config(object):
     API_ID = int(os.getenv("API_ID", "13290427"))
     API_HASH = os.getenv("API_HASH", "c33b2f280810fc2f60a6387a4c4217f2")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "5660564414:AAE2Hem9t5uouIXHlMMV6Rq-D8A8L1k5ku8")
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "5015404755:AAE58laq-OGoqxkKth7TjVzyKYBTa4zs7oc")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOLsBu7SJS71LBT0H9mAGqMi1hvPRLSO_zDQL3GwMwoGhx_0F21cOxz_AAMIVDMSTBSh0oz7FISaWAdrnwKyZX3iOsupa4Fp-v8BTkPy71k6J-vMEFqJXn2UKNqbRFs2I2HhVCkrHHsRefxBHOdOKU5P18RHaZ4OCdMWzAQrr_MLsz9cn1LK7dfRGhO3SV4TpIL7R9UtzTLZP4wCz_y6IgLwWu3pDoEI_FII8534WJUUVrexaOpBeCSxeTlZ7SdMcPY4INhNqcsFAaji82kah6Hb8dNw15SQuDVPxFiU4dLdhy2mBDb3MkGENsfBOnUaHq3dpM9vpfmXtBe9NWskPzOHrrFA=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001711211283")) 
@@ -29,9 +29,9 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ.
 
 ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅""" )
-    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001249072794")
-    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://postbot:postbot@cluster0.ouwne8q.mongodb.net/?retryWrites=true&w=majority")
-    LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001796458234"))
+    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001517345433")
+    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://aryan1082:aryan_1082@cluster0.jmqpi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+    LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001517345433"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
     UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "cynitebackup")
